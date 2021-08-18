@@ -1,3 +1,3 @@
-# MySQL_Practice
+# Thread_Practice
 
-This repository is for MySQL practice.
+This repository is for using a thread in JAVA.
