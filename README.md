@@ -1,3 +1,3 @@
-# Thread_Practice
+# Class_Study
 
-This repository is for using a thread in JAVA.
+This repository is for studying java in a class.
